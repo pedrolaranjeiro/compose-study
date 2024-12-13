@@ -1,6 +1,4 @@
 # Ecommerce Demo Test 
-#### I Love It
-
 
 
 ## API Key
